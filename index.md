@@ -1,6 +1,6 @@
 ## Wei Zhang (张微)
 
-Hi! <!--[back](https://weizhang-mg.github.io/wz.github.io/) -->
+Hi! <!--[back](https://weizhang-mg.github.io) -->
 
 
 <img src="1688676566595.jpg" width="200" height="200" align="right" HSPACE="20" >
