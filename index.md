@@ -33,9 +33,9 @@ Steffman, J. & **Zhang, W.** (co-first author) (2023), Vowel perception under pr
 
 **Zhang, W.**, & Gu, W. (2023). F0 range instead of F0 slope is the primary cue for the falling tone of Mandarin. _The Journal of the Acoustical Society of America_, 153(6), 3439. [https://doi.org/10.1121/10.0019712](https://doi.org/10.1121/10.0019712)
 
-**Zhang, W.**, Xie, Y., Lin, B., Wang, L., & Zhang, J. (2022). Estimation of the Underlying F0 Range of a Speaker from the Spectral Features of a Brief Speech Input. _Applied Sciences_, 12(13), Article 13. [https://doi.org/10.3390/app12136494](https://doi.org/10.3390/app12136494)
+**Zhang, W.**, Xie, Y., Lin, B., Wang, L., & Zhang, J. (2022). Estimation of the underlying F0 range of a speaker from the spectral features of a brief speech input. _Applied Sciences_, 12(13), Article 13. [https://doi.org/10.3390/app12136494](https://doi.org/10.3390/app12136494)
 
-Lin, J., Gao, Y., **Zhang, W.**, Wei, L., Xie, Y., & Zhang, J. (2020). Improving Pronunciation Erroneous Tendency Detection with Multi-Model Soft Targets. Journal of Signal Processing Systems, 1–11.
+Lin, J., Gao, Y., **Zhang, W.**, Wei, L., Xie, Y., & Zhang, J. (2020). Improving Pronunciation Erroneous Tendency Detection with Multi-Model Soft Targets. _Journal of Signal Processing Systems_, 1–11.
 
 **Zhang, W.** and Clayards, M. and Wagner, M., The interaction of focus and phrasing in Mandarin and in English. (In revision)
 
