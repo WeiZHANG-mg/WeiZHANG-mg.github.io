@@ -43,7 +43,7 @@ Peng, W., Fu, K., **Zhang, W.**, L., Xie, Y., & Zhang, J. (2020). A study on the
 
 ### Conference Proceedings
 
-**Zhang, W.**, Lu, Y (2023). The role of duration in the perception of checked versus unchecked tones in Taiwanese Southern Min. In \textit{Proc. 20th International Congress of Phonetic Sciences (ICPhS)}, Prague, Czech, pp. 226-230.\\[0pt]
+**Zhang, W.**, Lu, Y (2023). The role of duration in the perception of checked versus unchecked tones in Taiwanese Southern Min. _Proc. 20th International Congress of Phonetic Sciences (ICPhS)_, Prague, Czech, pp. 226-230.
 
 **Zhang, W.**, Clayards, M., & Zhang, J. (2021). Effects of Mandarin Tones on Acoustic Cue Weighting Patterns for Prominence. 2021 12th International Symposium on Chinese Spoken Language Processing (ISCSLP), 1–5. [https://doi.org/10.1109/ISCSLP49672.2021.9362105](https://doi.org/10.1109/ISCSLP49672.2021.9362105)
 
