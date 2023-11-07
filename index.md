@@ -48,21 +48,21 @@ Steffman, J & **Zhang, W.**, (2023). Vowel perception under prominence: Dual rol
 
 **Zhang, W.**, Clayards, M. & Torreira, F. (2022). Cue primacy effects in Mandarin tone imitation. _Proc. LabPhon18_.
 
-**Zhang, W.**, Clayards, M., & Zhang, J. (2021). Effects of Mandarin tones on acoustic cue weighting patterns for prominence. 2021 12th International Symposium on Chinese Spoken Language Processing (ISCSLP), Hong Kong. [https://doi.org/10.1109/ISCSLP49672.2021.9362105](https://doi.org/10.1109/ISCSLP49672.2021.9362105)
+**Zhang, W.**, Clayards, M., & Zhang, J. (2021). Effects of Mandarin tones on acoustic cue weighting patterns for prominence. _12th International Symposium on Chinese Spoken Language Processing (ISCSLP)_, Hong Kong. [https://doi.org/10.1109/ISCSLP49672.2021.9362105](https://doi.org/10.1109/ISCSLP49672.2021.9362105)
 
-**Zhang, W.**, Clayards, M., & Wagner, M. (2021). The interaction between focus and phrasing in Mandarin high-flat and falling tones. In _Proc. 1st Tone and Intonation (TAI)_, Sønderborg, Denmark.
+**Zhang, W.**, Clayards, M., & Wagner, M. (2021). The interaction between focus and phrasing in Mandarin high-flat and falling tones. _Proc. 1st Tone and Intonation (TAI)_, Sønderborg, Denmark.
 
-**Zhang, W.**, Xie, Y., & Zhang, J. (2020). Physiological pitch range estimation from a brief speech input: A study on a bilingual parallel speech corpus. Speech Prosody 2020, 960–964. [https://doi.org/10.21437/SpeechProsody.2020-196](https://doi.org/10.21437/SpeechProsody.2020-196)
+**Zhang, W.**, Xie, Y., & Zhang, J. (2020). Physiological pitch range estimation from a brief speech input: A study on a bilingual parallel speech corpus. _Proc. 10th International Conference on Speech Prosody_, Tokyo, Japan, pp. 960-964. [https://doi.org/10.21437/SpeechProsody.2020-196](https://doi.org/10.21437/SpeechProsody.2020-196)
 
-**Zhang, W.**, Xie, Y., & Zhang, J. (2018). A Preliminary Study on Quantitative Calculation of Prosodic Strength in Mandarin Speech. 2018 ——_Proc. 11th International Symposium on Chinese Spoken Language Processing (ISCSLP)_, Taipei, 439–443. [https://doi.org/10.1109/ISCSLP.2018.8706596](https://doi.org/10.1109/ISCSLP.2018.8706596)
+**Zhang, W.**, Xie, Y., & Zhang, J. (2018). A Preliminary Study on Quantitative Calculation of Prosodic Strength in Mandarin Speech. _Proc. 11th International Symposium on Chinese Spoken Language Processing (ISCSLP)_, Taipei, pp. 439–443. [https://doi.org/10.1109/ISCSLP.2018.8706596](https://doi.org/10.1109/ISCSLP.2018.8706596)
 
-**Zhang, W.**, Zhang, Q., Xie, Y., & Zhang, J. (2018). LSTM-Based Pitch Range Estimation from Spectral Information of Brief Speech Input. _Proc. 11th International Symposium on Chinese Spoken Language Processing (ISCSLP)_, Taipei, 349–353. [https://doi.org/10.1109/ISCSLP.2018.8706608](https://doi.org/10.1109/ISCSLP.2018.8706608)
+**Zhang, W.**, Zhang, Q., Xie, Y., & Zhang, J. (2018). LSTM-Based Pitch Range Estimation from Spectral Information of Brief Speech Input. _Proc. 11th International Symposium on Chinese Spoken Language Processing (ISCSLP)_, Taipei, pp. 349–353. [https://doi.org/10.1109/ISCSLP.2018.8706608](https://doi.org/10.1109/ISCSLP.2018.8706608)
 
-Hao, L., **Zhang, W.**, Xie, Y., & Zhang, J. (2018). A Preliminary Study on Tonal Coarticulation in Continuous Speech. Interspeech 2018, 3017–3021. [https://doi.org/10.21437/Interspeech.2018-1849](https://doi.org/10.21437/Interspeech.2018-1849)
+Hao, L., **Zhang, W.**, Xie, Y., & Zhang, J. (2018). A Preliminary Study on Tonal Coarticulation in Continuous Speech. _Proc. INTERSPEECH 2018_, Hyderabad, India, pp. 3017-3021. [https://doi.org/10.21437/Interspeech.2018-1849](https://doi.org/10.21437/Interspeech.2018-1849)
 
-Hao, L., **Zhang, W.**, Xie, Y., & Zhang, J. (2017). Reanalyze Fundamental Frequency Peak Delay in Mandarin. Interspeech 2017, 3186–3190. [https://doi.org/10.21437/Interspeech.2017-1235](https://doi.org/10.21437/Interspeech.2017-1235)
+Hao, L., **Zhang, W.**, Xie, Y., & Zhang, J. (2017). Reanalyze Fundamental Frequency Peak Delay in Mandarin. _Proc. INTERSPEECH 2017_, Stockholm, Sweden, pp. 3186-3190. [https://doi.org/10.21437/Interspeech.2017-1235](https://doi.org/10.21437/Interspeech.2017-1235)
 
-Lin, J., Xie, Y., **Zhang, W.**, & Zhang, J. (2016). Automatic Mandarin prosody boundary detecting based on tone nucleus features and DNN model. 2016 10th International Symposium on Chinese Spoken Language Processing (ISCSLP), 1–5. [https://doi.org/10.1109/ISCSLP.2016.7918485](https://doi.org/10.1109/ISCSLP.2016.7918485)
+Lin, J., Xie, Y., **Zhang, W.**, & Zhang, J. (2016). Automatic Mandarin prosody boundary detecting based on tone nucleus features and DNN model. _Proc 10th International Symposium on Chinese Spoken Language Processing (ISCSLP)_, Tianjin, China. [https://doi.org/10.1109/ISCSLP.2016.7918485](https://doi.org/10.1109/ISCSLP.2016.7918485)
 
 
 
