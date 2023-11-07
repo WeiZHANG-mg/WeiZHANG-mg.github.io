@@ -37,6 +37,8 @@ Steffman, J. & **Zhang, W.** (co-first author) (2023), Vowel perception under pr
 
 Lin, J., Gao, Y., **Zhang, W.**, Wei, L., Xie, Y., & Zhang, J. (2020). Improving pronunciation erroneous tendency detection with multi-model soft targets. _Journal of Signal Processing Systems_, 1–11. [https://doi.org/10.1007/s11265-019-01485-2](https://doi.org/10.1007/s11265-019-01485-2)
 
+Peng, W., Fu, K., **Zhang, W.**, L., Xie, Y., & Zhang, J. (2020). A study on the robustness of pitch-range estimation from brief speech segments. {\it International Journal of Asian Language Processing}, 30(01), Article 2050003.\\[0pt]
+
 **Zhang, W.** and Clayards, M. and Wagner, M., The interaction of focus and phrasing in Mandarin and in English. (In revision)
 
 ### Conference Proceedings
