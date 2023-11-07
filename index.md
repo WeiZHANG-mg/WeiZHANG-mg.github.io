@@ -28,7 +28,6 @@ OSF: [https://osf.io/gmca8/](https://osf.io/gmca8/)
 
 **Zhang, W.** & Clayards, M. (2023), Contribution of acoustic cues to prominence ratings for four Mandarin vowels. _Journal of the Acoustical Society of America_.
 
-
 Steffman, J. & **Zhang, W.** (co-first author) (2023), Vowel perception under prominence: examining the roles of F0, duration and distributional information. _The Journal of the Acoustical Society of America_, 154, 2594–2608. [http://doi.org/10.1121/10.0021300](http://doi.org/10.1121/10.0021300)
 
 **Zhang, W.**, & Gu, W. (2023). F0 range instead of F0 slope is the primary cue for the falling tone of Mandarin. _The Journal of the Acoustical Society of America_, 153(6), 3439. [https://doi.org/10.1121/10.0019712](https://doi.org/10.1121/10.0019712)
@@ -46,7 +45,6 @@ Peng, W., Fu, K., **Zhang, W.**, L., Xie, Y., & Zhang, J. (2020). A study on the
 **Zhang, W.**, Lu, Y (2023). The role of duration in the perception of checked versus unchecked tones in Taiwanese Southern Min. _Proc. 20th International Congress of Phonetic Sciences (ICPhS)_, Prague, Czech, pp. 226-230.
 
 Steffman, J, **Zhang, W.**, (2023). Vowel perception under prominence: Dual roles for F0 and duration. _Proc. 20th International Congress of Phonetic Sciences (ICPhS)_,Prague, Czech, pp. 62-66.
-
 
 **Zhang, W.**, Clayards, M., & Zhang, J. (2021). Effects of Mandarin Tones on Acoustic Cue Weighting Patterns for Prominence. 2021 12th International Symposium on Chinese Spoken Language Processing (ISCSLP), 1–5. [https://doi.org/10.1109/ISCSLP49672.2021.9362105](https://doi.org/10.1109/ISCSLP49672.2021.9362105)
 
