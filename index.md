@@ -24,12 +24,10 @@ OSF: [https://osf.io/gmca8/](https://osf.io/gmca8/)
 
 ### Journal Articles
 
-**Zhang, W.** and Clayards, M. and Torreira, F. (2023), Phonological mediation effects in imitation of the Mandarin flat-falling tonal continua.
- _Journal of Phonetics_, 101.
+**Zhang, W.** and Clayards, M. and Torreira, F. (2023), Phonological mediation effects in imitation of the Mandarin flat-falling tonal continua. _Journal of Phonetics_, 101. [https://doi.org/10.1016/j.wocn.2023.101277](https://doi.org/10.1016/j.wocn.2023.101277)
 
 **Zhang, W.** & Clayards, M. (2023), Contribution of acoustic cues to prominence ratings for four Mandarin vowels. _Journal of the Acoustical Society of America_.
 
-**Zhang, W.** and Clayards, M. and Wagner, M., The interaction of focus and phrasing in Mandarin and in English. (In revision)
 
 Steffman, J. & **Zhang, W.** (co-first author) (2023), Vowel perception under prominence: examining the roles of F0, duration and distributional information. _The Journal of the Acoustical Society of America_, 154, 2594–2608.
 
@@ -39,6 +37,7 @@ Steffman, J. & **Zhang, W.** (co-first author) (2023), Vowel perception under pr
 
 Lin, J., Gao, Y., **Zhang, W.**, Wei, L., Xie, Y., & Zhang, J. (2020). Improving Pronunciation Erroneous Tendency Detection with Multi-Model Soft Targets. Journal of Signal Processing Systems, 1–11.
 
+**Zhang, W.** and Clayards, M. and Wagner, M., The interaction of focus and phrasing in Mandarin and in English. (In revision)
 
 ### Conference Proceedings
 
