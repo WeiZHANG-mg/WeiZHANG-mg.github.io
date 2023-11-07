@@ -54,9 +54,9 @@ Steffman, J & **Zhang, W.**, (2023). Vowel perception under prominence: Dual rol
 
 **Zhang, W.**, Xie, Y., & Zhang, J. (2020). Physiological pitch range estimation from a brief speech input: A study on a bilingual parallel speech corpus. Speech Prosody 2020, 960–964. [https://doi.org/10.21437/SpeechProsody.2020-196](https://doi.org/10.21437/SpeechProsody.2020-196)
 
-**Zhang, W.**, Xie, Y., & Zhang, J. (2018). A Preliminary Study on Quantitative Calculation of Prosodic Strength in Mandarin Speech. 2018 11th International Symposium on Chinese Spoken Language Processing (ISCSLP), 439–443. [https://doi.org/10.1109/ISCSLP.2018.8706596](https://doi.org/10.1109/ISCSLP.2018.8706596)
+**Zhang, W.**, Xie, Y., & Zhang, J. (2018). A Preliminary Study on Quantitative Calculation of Prosodic Strength in Mandarin Speech. 2018 ——_Proc. 11th International Symposium on Chinese Spoken Language Processing (ISCSLP)_, Taipei, 439–443. [https://doi.org/10.1109/ISCSLP.2018.8706596](https://doi.org/10.1109/ISCSLP.2018.8706596)
 
-**Zhang, W.**, Zhang, Q., Xie, Y., & Zhang, J. (2018). LSTM-Based Pitch Range Estimation from Spectral Information of Brief Speech Input. 2018 11th International Symposium on Chinese Spoken Language Processing (ISCSLP), 349–353. [https://doi.org/10.1109/ISCSLP.2018.8706608](https://doi.org/10.1109/ISCSLP.2018.8706608)
+**Zhang, W.**, Zhang, Q., Xie, Y., & Zhang, J. (2018). LSTM-Based Pitch Range Estimation from Spectral Information of Brief Speech Input. _Proc. 11th International Symposium on Chinese Spoken Language Processing (ISCSLP)_, Taipei, 349–353. [https://doi.org/10.1109/ISCSLP.2018.8706608](https://doi.org/10.1109/ISCSLP.2018.8706608)
 
 Hao, L., **Zhang, W.**, Xie, Y., & Zhang, J. (2018). A Preliminary Study on Tonal Coarticulation in Continuous Speech. Interspeech 2018, 3017–3021. [https://doi.org/10.21437/Interspeech.2018-1849](https://doi.org/10.21437/Interspeech.2018-1849)
 
