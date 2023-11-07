@@ -48,7 +48,7 @@ Steffman, J & **Zhang, W.**, (2023). Vowel perception under prominence: Dual rol
 
 **Zhang, W.**, Clayards, M. & Torreira, F. (2022). Cue primacy effects in Mandarin tone imitation. _Proc. LabPhon18_.
 
-**Zhang, W.**, Clayards, M., & Zhang, J. (2021). Effects of Mandarin Tones on Acoustic Cue Weighting Patterns for Prominence. 2021 12th International Symposium on Chinese Spoken Language Processing (ISCSLP), 1–5. [https://doi.org/10.1109/ISCSLP49672.2021.9362105](https://doi.org/10.1109/ISCSLP49672.2021.9362105)
+**Zhang, W.**, Clayards, M., & Zhang, J. (2021). Effects of Mandarin tones on acoustic cue weighting patterns for prominence. 2021 12th International Symposium on Chinese Spoken Language Processing (ISCSLP), 1–5. [https://doi.org/10.1109/ISCSLP49672.2021.9362105](https://doi.org/10.1109/ISCSLP49672.2021.9362105)
 
 **Zhang, W.**, Clayards, M., & Wagner, M. (2021). The interaction between focus and phrasing in Mandarin high-flat and falling tones. In _Proc. 1st Tone and Intonation (TAI)_, Sønderborg, Denmark.
 
