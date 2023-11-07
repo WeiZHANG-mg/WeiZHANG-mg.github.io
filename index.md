@@ -29,7 +29,7 @@ OSF: [https://osf.io/gmca8/](https://osf.io/gmca8/)
 **Zhang, W.** & Clayards, M. (2023), Contribution of acoustic cues to prominence ratings for four Mandarin vowels. _Journal of the Acoustical Society of America_.
 
 
-Steffman, J. & **Zhang, W.** (co-first author) (2023), Vowel perception under prominence: examining the roles of F0, duration and distributional information. _The Journal of the Acoustical Society of America_, 154, 2594–2608.
+Steffman, J. & **Zhang, W.** (co-first author) (2023), Vowel perception under prominence: examining the roles of F0, duration and distributional information. _The Journal of the Acoustical Society of America_, 154, 2594–2608. [http://doi.org/10.1121/10.0021300](http://doi.org/10.1121/10.0021300)
 
 **Zhang, W.**, & Gu, W. (2023). F0 range instead of F0 slope is the primary cue for the falling tone of Mandarin. _The Journal of the Acoustical Society of America_, 153(6), 3439. [https://doi.org/10.1121/10.0019712](https://doi.org/10.1121/10.0019712)
 
