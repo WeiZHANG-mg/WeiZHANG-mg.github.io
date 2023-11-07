@@ -40,8 +40,8 @@ Peng, W., Fu, K., **Zhang, W.**, L., Xie, Y., & Zhang, J. (2020). A study on the
 
 **Zhang, W.**, Clayards, M. & Wagner, M., The interaction of focus and phrasing in Mandarin and in English. (In revision)
 
-### Conference Proceedings
-
+### Conference Proceedings (selected)
+ 
 **Zhang, W.** & Lu, Y (2023). The role of duration in the perception of checked versus unchecked tones in Taiwanese Southern Min. _Proc. 20th International Congress of Phonetic Sciences (ICPhS)_, Prague, Czech, pp. 226-230.
 
 Steffman, J & **Zhang, W.**, (2023). Vowel perception under prominence: Dual roles for F0 and duration. _Proc. 20th International Congress of Phonetic Sciences (ICPhS)_, Prague, Czech, pp. 62-66.
@@ -49,6 +49,8 @@ Steffman, J & **Zhang, W.**, (2023). Vowel perception under prominence: Dual rol
 **Zhang, W.**, Clayards, M. & Torreira, F. (2022). Cue primacy effects in Mandarin tone imitation. _Proc. LabPhon18_.
 
 **Zhang, W.**, Clayards, M., & Zhang, J. (2021). Effects of Mandarin Tones on Acoustic Cue Weighting Patterns for Prominence. 2021 12th International Symposium on Chinese Spoken Language Processing (ISCSLP), 1–5. [https://doi.org/10.1109/ISCSLP49672.2021.9362105](https://doi.org/10.1109/ISCSLP49672.2021.9362105)
+
+**Zhang, W.**, Clayards, M., & Wagner, M. (2021). The interaction between focus and phrasing in Mandarin high-flat and falling tones. In _Proc. 1st Tone and Intonation (TAI)_, Sønderborg, Denmark.
 
 **Zhang, W.**, Xie, Y., & Zhang, J. (2020). Physiological pitch range estimation from a brief speech input: A study on a bilingual parallel speech corpus. Speech Prosody 2020, 960–964. [https://doi.org/10.21437/SpeechProsody.2020-196](https://doi.org/10.21437/SpeechProsody.2020-196)
 
