@@ -24,7 +24,7 @@ OSF: [https://osf.io/gmca8/](https://osf.io/gmca8/)
 
 ### Journal Articles
 
-**Zhang, W.**, Clayards, M. and Torreira, F. (2023), Phonological mediation effects in imitation of the Mandarin flat-falling tonal continua. _Journal of Phonetics_, 101. [https://doi.org/10.1016/j.wocn.2023.101277](https://doi.org/10.1016/j.wocn.2023.101277)
+**Zhang, W.**, Clayards, M. & Torreira, F. (2023), Phonological mediation effects in imitation of the Mandarin flat-falling tonal continua. _Journal of Phonetics_, 101. [https://doi.org/10.1016/j.wocn.2023.101277](https://doi.org/10.1016/j.wocn.2023.101277)
 
 **Zhang, W.** & Clayards, M. (2023), Contribution of acoustic cues to prominence ratings for four Mandarin vowels. _Journal of the Acoustical Society of America_.
 
@@ -38,15 +38,15 @@ Lin, J., Gao, Y., **Zhang, W.**, Wei, L., Xie, Y., & Zhang, J. (2020). Improving
 
 Peng, W., Fu, K., **Zhang, W.**, L., Xie, Y., & Zhang, J. (2020). A study on the robustness of pitch-range estimation from brief speech segments. _International Journal of Asian Language Processing_, 30(01), Article 2050003. [https://doi.org/10.1142/S2717554520500034](https://doi.org/10.1142/S2717554520500034)
 
-**Zhang, W.** and Clayards, M. and Wagner, M., The interaction of focus and phrasing in Mandarin and in English. (In revision)
+**Zhang, W.**, Clayards, M. & Wagner, M., The interaction of focus and phrasing in Mandarin and in English. (In revision)
 
 ### Conference Proceedings
 
 **Zhang, W.** & Lu, Y (2023). The role of duration in the perception of checked versus unchecked tones in Taiwanese Southern Min. _Proc. 20th International Congress of Phonetic Sciences (ICPhS)_, Prague, Czech, pp. 226-230.
 
-Steffman, J & **Zhang, W.**, (2023). Vowel perception under prominence: Dual roles for F0 and duration. _Proc. 20th International Congress of Phonetic Sciences (ICPhS)_,Prague, Czech, pp. 62-66.
+Steffman, J & **Zhang, W.**, (2023). Vowel perception under prominence: Dual roles for F0 and duration. _Proc. 20th International Congress of Phonetic Sciences (ICPhS)_, Prague, Czech, pp. 62-66.
 
- **Zhang, W.**, Clayards, M. and Torreira, F. (2022). Cue primacy effects in Mandarin tone imitation. _Proc. LabPhon18_.\\[9pt]
+**Zhang, W.**, Clayards, M. & Torreira, F. (2022). Cue primacy effects in Mandarin tone imitation. _Proc. LabPhon18_.
 
 **Zhang, W.**, Clayards, M., & Zhang, J. (2021). Effects of Mandarin Tones on Acoustic Cue Weighting Patterns for Prominence. 2021 12th International Symposium on Chinese Spoken Language Processing (ISCSLP), 1–5. [https://doi.org/10.1109/ISCSLP49672.2021.9362105](https://doi.org/10.1109/ISCSLP49672.2021.9362105)
 
