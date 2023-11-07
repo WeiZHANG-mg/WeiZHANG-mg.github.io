@@ -24,14 +24,14 @@ OSF: [https://osf.io/gmca8/](https://osf.io/gmca8/)
 
 ### Journal Articles
 
-**Zhang, W.** and Clayards, M. and Torreira, F., Phonological mediation effects in imitation of the Mandarin flat-falling tonal continua.
+**Zhang, W.** and Clayards, M. and Torreira, F. (2023), Phonological mediation effects in imitation of the Mandarin flat-falling tonal continua.
  _Journal of Phonetics_, 101.
 
-**Zhang, W.** & Clayards, M., Contribution of acoustic cues to prominence ratings for four Mandarin vowels. _Journal of the Acoustical Society of America_.
+**Zhang, W.** & Clayards, M. (2023), Contribution of acoustic cues to prominence ratings for four Mandarin vowels. _Journal of the Acoustical Society of America_.
 
 **Zhang, W.** and Clayards, M. and Wagner, M., The interaction of focus and phrasing in Mandarin and in English. (In revision)
 
-Steffman, J. & **Zhang, W.** (co-first author), Vowel perception under prominence: examining the roles of F0, duration and distributional information. _The Journal of the Acoustical Society of America_, 154, 2594–2608.
+Steffman, J. & **Zhang, W.** (co-first author) (2023), Vowel perception under prominence: examining the roles of F0, duration and distributional information. _The Journal of the Acoustical Society of America_, 154, 2594–2608.
 
 **Zhang, W.**, & Gu, W. (2023). F0 range instead of F0 slope is the primary cue for the falling tone of Mandarin. _The Journal of the Acoustical Society of America_, 153(6), 3439. [https://doi.org/10.1121/10.0019712](https://doi.org/10.1121/10.0019712)
 
