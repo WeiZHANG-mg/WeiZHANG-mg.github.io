@@ -5,13 +5,13 @@ Hi! <!--[back](https://weizhang-mg.github.io) -->
 
 <img src="1688676566595.jpg" width="200" height="200" align="right" HSPACE="20" >
 
-I am a PhD candidate at the Linguistics Department of McGill University, affiliated with the Centre for Brain, Language, and Music. I work with [Meghan Clayards](http://speechlearning.lab.mcgill.ca/), [Morgan Sonderegger](https://people.linguistics.mcgill.ca/~morgan/), and 
-  [Michael Wagner](http://www.prosodylab.org/lab/). I'm interested in the link between speech perception and production, and speech prosody. My research approach includes behavioral experiments, corpus study, and computational modeling.
+I am an Assistant Professor in the School of Foreign Studies at Nanjing University, China. I received my PhD in Linguistics from McGill University, where I was supervised by [Meghan Clayards](http://speechlearning.lab.mcgill.ca/), [Morgan Sonderegger](https://people.linguistics.mcgill.ca/~morgan/), and 
+  [Michael Wagner](http://www.prosodylab.org/lab/). My research explores the link between speech perception and production, and speech prosody. My research approach includes behavioral experiments, corpus study, and computational modeling.
 
 
 ## Contact
 
-email: wei.zhang16@mail.mcgill.ca
+email: wei.zhang{AT}nju.edu.cn
 
 Researchgate: [https://www.researchgate.net/profile/Wei-Zhang-328](https://www.researchgate.net/profile/Wei-Zhang-328)
 
@@ -24,9 +24,13 @@ OSF: [https://osf.io/gmca8/](https://osf.io/gmca8/)
 
 ### Journal Articles
 
+**Zhang, W.**, Clayards, M., Sonderegger, M. (In revision), Imitation of F0 tone contours by Mandarin and English speakers is both categorical and continuous (Manuscript submitted to Journal of Phonetics)
+
+**Zhang, W.**, Clayards, M., & Wagner, M. (2024), Prosodic effects of focus and constituency in Mandarin and in English. _Laboratory Phonology_, 15(1). [https://doi.org/10.16995/labphon.9704](https://doi.org/10.16995/labphon.9704)
+
 **Zhang, W.**, Clayards, M. & Torreira, F. (2023), Phonological mediation effects in imitation of the Mandarin flat-falling tonal continua. _Journal of Phonetics_, 101. [https://doi.org/10.1016/j.wocn.2023.101277](https://doi.org/10.1016/j.wocn.2023.101277)
 
-**Zhang, W.** & Clayards, M. (2023), Contribution of acoustic cues to prominence ratings for four Mandarin vowels. _Journal of the Acoustical Society of America_.
+**Zhang, W.** & Clayards, M. (2023), Contribution of acoustic cues to prominence ratings for four Mandarin vowels. _Journal of the Acoustical Society of America_. 154(5), 3364-3373. [https://doi.org/10.1121/10.0022410](https://doi.org/10.1121/10.0022410)
 
 Steffman, J. & **Zhang, W.** (co-first author) (2023), Vowel perception under prominence: examining the roles of F0, duration and distributional information. _The Journal of the Acoustical Society of America_, 154, 2594–2608. [http://doi.org/10.1121/10.0021300](http://doi.org/10.1121/10.0021300)
 
@@ -38,7 +42,7 @@ Lin, J., Gao, Y., **Zhang, W.**, Wei, L., Xie, Y., & Zhang, J. (2020). Improving
 
 Peng, W., Fu, K., **Zhang, W.**, L., Xie, Y., & Zhang, J. (2020). A study on the robustness of pitch-range estimation from brief speech segments. _International Journal of Asian Language Processing_, 30(01), Article 2050003. [https://doi.org/10.1142/S2717554520500034](https://doi.org/10.1142/S2717554520500034)
 
-**Zhang, W.**, Clayards, M. & Wagner, M., The interaction of focus and phrasing in Mandarin and in English. (In revision)
+
 
 ### Conference Proceedings (selected)
  
